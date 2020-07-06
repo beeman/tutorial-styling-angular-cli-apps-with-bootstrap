@@ -1,2 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap";
+
+// This line makes sure that our footer sticks to the bottom
+html,
+body {
+  height: 100%;
+}
+
